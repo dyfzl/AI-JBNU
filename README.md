@@ -141,7 +141,7 @@ Positive, Neutral, Negative 분포
   - 감성 라벨링 고도화 및 불균형 문제 해결
 <br/>
 
-##📚 참고문헌
+### 📚 참고문헌
 
 
 Radford, A., et al., 2019. "Language Models are Few-Shot Learners," Advances in Neural Information Processing Systems.
